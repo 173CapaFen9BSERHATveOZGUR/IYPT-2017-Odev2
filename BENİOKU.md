@@ -1,15 +1,12 @@
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki 
+# Özet (Abstract)
+Bu projenin amacı, su damlacıklarının pencere üzerine düşüşlerini açıklamaktır. Diğer bir amaç ise su damlacıklarının farklı yüzeylerdeki davranışlarını araştırmak ve açıklamaktır. Biz, cam üstüne düşen damlacıkların hareketlerini merak ettiğimizden dolayı bu projeyi seçtik. Rusya'da bir okul tarafından (Moskova Devlet Üniversitesi Bilim Okulu) 2003'te yürütülen bu proje, 207,2 puan alıp 11. olmuştur.
 
-## Yapılacak İşlemler
-Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
-çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
-gerçekteltirmeye çalışın. Önemli olan deneye başlamanızdır. Deneyde başarısız olmanız, notunuzu hiçbir şekilde etkilemeyecektir.
-Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olacaksınız. Ama sonunda başaracaksınız. Edison'u örnek alın; 
-Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
-Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
+# Giriş (Introduction)
+Bu araştırmanın amacı su damlacıklarının pencere üzerine düşüşünü ve farklı yüzeylerde davranışlarını incelemek. Bu konu günlük hayatımızda hep karşımıza çıkan bir konu olmasına rağmen şu ana kadar yapılan deney sayısı çok az. Çalışma hakkında bilgi toplamada internette bulabildiğimiz çalışmalardan yararlandık. Bu deneyde rüzgar olmadığını varsaydık. Hipotezimiz suyun temiz cam yüzeyinde hızlı hareket edip hiç kalmayacağı, kirli cam yüzeyinde daha yavaş hareket edip bir miktar su kalacağı, mat yüzeyde ise temiz cam yüzey ile benzer bir sonuç olacağı yönünde. 
 
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
+# Materyal ve Yöntem (Experimental Setup)
+Bu deney için pet şişe ve kapağı, su, sınıfın duvarı ve penceresini kullandık. Çalışma sahamız sınıftı. Sınıf dolu olsa bile deneyimizi yapmamıza engel olacak bir şey olmadı. Yöntem olarak pet şişenin kapağına su doldurup yüzeylere fırlattık ve hareketini inceleyip videosunu çektik. Deney malzemesi için sadece içi dolu bir pet şişe gerektiğinden materyalleri bir yere koyma konusunda sıkıntı yaşamadık, pencere kenarına koyduk. Deneyi Özgür ve ben (Serhat) yaptık. Deneyi sınıfta yaptık ve yaklaşık 10 dakika sürdü. Videolarda görünmeyen kısımlar için tekrar çekmek zorunda kaldığımız şeyler oldu.
+
+# Bulgular (Results)
+Deneyin sonuçları hipotezimiz ile benzerdi. Temiz cam yüzeyde hiç su kalmadı, kirli cam yüzeyde suyun çoğu kaldı ve mat yüzeyde de az miktarda kaldı. Temiz cam yüzeyde su diğerlerine göre çok daha hızlıydı. Kirli cam yüzeyde ise diğerlerine göre daha yavaş bir hareket söz konusuydu. Kirli cam yüzeyde kalan su yavaş yavaş aşağıya inmeye devam ederden mat yüzeydeki su olduğu yerde kaldı. 
+Gelecekte çalışmamızı geliştirebilmek için daha uygun bir ortamda daha net bir ölçüm yapmamız gerektiğini anladık.
